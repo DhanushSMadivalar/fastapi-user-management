@@ -1,8 +1,8 @@
-__FastAPI User Management API__
+__<ins>FastAPI User Management API</ins>__
 
 This is a simple User Management API built with FastAPI, supporting CRUD operations for user data.
 
-__<ins>-->Installation :</ins>__
+__<ins>Installation :</ins>__
 
 
 
@@ -29,7 +29,7 @@ uvicorn main:app --reload
 The API will be available at http://127.0.0.1:8000/.
 
 
-**-->Testing**
+**<ins>Testing</ins>**
 
 Open http://127.0.0.1:8000/docs to test the API using FastAPI’s interactive Swagger UI.
 
